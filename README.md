@@ -38,7 +38,8 @@ slickCarousel(content = img_div, height = 350, config = list(dots = TRUE))
 
 We can plug this into an R Markdown document and embed it without really having to change anything else. You can see the output [here](http://rpubs.com/ramnathv/test-carousel)
 
-  ---
+
+	---
 	title: "Slick Carousel HTML Widget"
 	author: "Ramnath Vaidyanathan"
 	date: "July 17, 2014"
