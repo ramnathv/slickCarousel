@@ -1,0 +1,10 @@
+dependencies:
+  - name: jquery
+    version: 2.1.1
+    src: "lib/jquery/dist"
+    script: jquery.min.js
+  - name: "slick"
+    version: 1.3.6
+    src: "lib/slick-carousel"
+    script: "slick/slick.min.js"
+    style:  ["slick/slick.css", "css/style.css"]
