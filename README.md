@@ -33,7 +33,10 @@ img_div <- lapply(images, function(src){
 slickCarousel(content = img_div, height = 350, config = list(dots = TRUE))
 ```
 
-We can plug this into an R Markdown document and embed it without really having to change anything else.
+![slickCarousel](http://i.imgur.com/CJAD6FJ.png)
+
+
+We can plug this into an R Markdown document and embed it without really having to change anything else. You can see the output [here](http://rpubs.com/ramnathv/test-carousel)
 
   ---
 	title: "Slick Carousel HTML Widget"
